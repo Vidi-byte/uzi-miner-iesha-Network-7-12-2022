@@ -2,7 +2,7 @@
 
 <h1 align="center"> ℤiesha Network | Mining Pool </h1>
 
-## Bir havuz oluşturmak istiyorsanız [Link](https://github.com/ziesha-network/uzi-pool)
+
 
 ## Havuza dahil olmak isteyenler için sistem gereksinimleri:
 
