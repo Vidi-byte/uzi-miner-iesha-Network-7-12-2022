@@ -7,10 +7,10 @@
 ## Havuza dahil olmak isteyenler için sistem gereksinimleri:
 
 * Minimum
-```
-4 RAM (tahmini, test edeceğiz)
+
+#4 RAM (tahmini, test edeceğiz)
 CPU Sayınız ne kadar yüksekse, hashrate o kadar çok olur.
-```
+
 
 ## Havuza dahil olmadan önce Uzi kuralım:
 ```
