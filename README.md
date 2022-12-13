@@ -8,7 +8,7 @@
 
 * Minimum
 
-#4 RAM (tahmini, test edeceğiz)
+# 4 RAM (tahmini, test edeceğiz)
 CPU Sayınız ne kadar yüksekse, hashrate o kadar çok olur.
 
 
